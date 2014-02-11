@@ -1,0 +1,79 @@
+[10-Dec-2013 22:08:08 America/Chicago] NO RESULT
+[10-Dec-2013 22:08:27 America/Chicago] NO RESULT
+[10-Dec-2013 22:09:46 America/Chicago] NO RESULT
+[10-Dec-2013 22:09:46 America/Chicago] ap_user_profile_update: INFO db query: INSERT INTO USER (username,email,password,joindate) VALUES ('aceplus_admin','neonasahi@gmail.com','9608c39c0697ec77595c294ca10845ac',1386734986)
+[10-Dec-2013 22:09:58 America/Chicago] aceplus_adminUUUaceplus_admin
+[11-Dec-2013 05:26:41 America/Chicago] NO RESULT
+[11-Dec-2013 05:26:41 America/Chicago] ap_user_profile_update: INFO db query: INSERT INTO USER (username,email,password,joindate) VALUES ('jsmith','jsmith@gmail.com','a830c9ef0b17844b24e072f680b1e3fc',1386761201)
+[11-Dec-2013 09:27:37 America/Chicago] NO RESULT
+[11-Dec-2013 09:27:37 America/Chicago] ap_user_profile_update: INFO db query: INSERT INTO USER (username,email,password,joindate) VALUES ('crossoverdj','derekisjiang@gmail.com','482c811da5d5b4bc6d497ffa98491e38',1386775657)
+[11-Dec-2013 09:35:13 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 09:35:13 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 09:35:18 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 09:35:18 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 09:36:00 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 09:36:00 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 09:36:55 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 09:36:55 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 09:36:56 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 09:36:56 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 09:36:56 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 09:36:56 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 09:36:57 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 09:36:57 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 10:00:05 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 10:00:05 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 10:00:05 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 10:00:05 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 10:00:05 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 10:00:06 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 10:00:06 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 10:00:06 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 10:00:06 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 10:00:06 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 10:00:06 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 10:00:07 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 10:00:07 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 10:00:07 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 10:00:07 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 10:00:08 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 10:00:08 America/Chicago] UPDATE USER SET firstname='Yiming', lastname='Jiang', gender='M', birthday=1380603600, sig='Party Party Everyday!' WHERE username='crossoverdj'
+[11-Dec-2013 10:12:23 America/Chicago] [INFO] user aceplus_admin logout at [1386778343] 
+[11-Dec-2013 10:17:51 America/Chicago] NO RESULT
+[11-Dec-2013 10:17:51 America/Chicago] ap_user_profile_update: INFO db query: INSERT INTO USER (username,email,password,joindate) VALUES ('aceplus_k','keyang4@illinois.edu','9608c39c0697ec77595c294ca10845ac',1386778671)
+[11-Dec-2013 10:18:39 America/Chicago] UPDATE USER SET firstname='Kirk', lastname='Yang', gender='M', birthday=645253200, sig='Hallo?' WHERE username='aceplus_k'
+[11-Dec-2013 10:18:39 America/Chicago] UPDATE USER SET firstname='Kirk', lastname='Yang', gender='M', birthday=645253200, sig='Hallo?' WHERE username='aceplus_k'
+[11-Dec-2013 10:19:42 America/Chicago] ap_assign_create: ERROR on db query: INSERT INTO ASSIGNMENT ( begin, end, tag, title, content, status, cid, username) VALUES (1387260000, 1387260000, 'Final', 'Final Exam', 'Oops!!!
+It's final time!', 0, 1052, 'aceplus_k');
+[11-Dec-2013 10:33:04 America/Chicago] [INFO] user aceplus_k logout at [1386779584] 
+[11-Dec-2013 10:35:30 America/Chicago] UPDATE USER SET firstname='Admin', lastname='Atlas', gender='M', birthday=645253200, sig='I dominates the world.' WHERE username='aceplus_admin'
+[11-Dec-2013 10:35:30 America/Chicago] UPDATE USER SET firstname='Admin', lastname='Atlas', gender='M', birthday=645253200, sig='I dominates the world.' WHERE username='aceplus_admin'
+[11-Dec-2013 10:44:18 America/Chicago] [INFO] user aceplus_admin logout at [1386780258] 
+[11-Dec-2013 16:08:18 America/Chicago] NO RESULT
+[11-Dec-2013 16:08:18 America/Chicago] ap_user_profile_update: INFO db query: INSERT INTO USER (username,email,password,joindate) VALUES ('keyang4','neonmori@gmail.com','9608c39c0697ec77595c294ca10845ac',1386799698)
+[11-Dec-2013 16:12:23 America/Chicago] [INFO] user keyang4 logout at [1386799943] 
+[11-Dec-2013 16:38:18 America/Chicago] [INFO] user keyang4 logout at [1386801498] 
+[11-Dec-2013 16:47:04 America/Chicago] [INFO] user crossoverdj logout at [1386802024] 
+[11-Dec-2013 16:56:03 America/Chicago] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 111 in /home/ace-plus/public_html/php/ap-db.php on line 8
+[11-Dec-2013 16:56:03 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ace-plus/public_html/php/ap-db.php on line 30
+[11-Dec-2013 16:56:03 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ace-plus/public_html/php/ap-db.php on line 30
+[11-Dec-2013 16:56:03 America/Chicago] ap_assign_list: ERROR on db query: SELECT * FROM ASSIGNMENT ORDER BY id DESC
+[11-Dec-2013 16:56:07 America/Chicago] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 111 in /home/ace-plus/public_html/php/ap-db.php on line 8
+[11-Dec-2013 16:56:07 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ace-plus/public_html/php/ap-db.php on line 30
+[11-Dec-2013 16:56:07 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ace-plus/public_html/php/ap-db.php on line 30
+[11-Dec-2013 16:56:07 America/Chicago] ap_assign_get_of_user: ERROR on db query: SELECT * FROM ASSIGNMENT WHERE (end > 1385877600 OR begin < 1388556000)AND username=''
+[11-Dec-2013 16:56:09 America/Chicago] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 111 in /home/ace-plus/public_html/php/ap-db.php on line 8
+[11-Dec-2013 16:56:09 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ace-plus/public_html/php/ap-db.php on line 30
+[11-Dec-2013 16:56:09 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ace-plus/public_html/php/ap-db.php on line 30
+[11-Dec-2013 16:56:09 America/Chicago] ap_assign_list: ERROR on db query: SELECT * FROM ASSIGNMENT ORDER BY id DESC
+[11-Dec-2013 16:56:12 America/Chicago] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 111 in /home/ace-plus/public_html/php/ap-db.php on line 8
+[11-Dec-2013 16:56:12 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ace-plus/public_html/php/ap-db.php on line 30
+[11-Dec-2013 16:56:12 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ace-plus/public_html/php/ap-db.php on line 30
+[11-Dec-2013 16:56:12 America/Chicago] ap_assign_list: ERROR on db query: SELECT * FROM ASSIGNMENT ORDER BY id DESC
+[11-Dec-2013 17:05:20 America/Chicago] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 111 in /home/ace-plus/public_html/php/ap-db.php on line 8
+[11-Dec-2013 17:05:20 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ace-plus/public_html/php/ap-course.php on line 5
+[11-Dec-2013 17:05:20 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/ace-plus/public_html/php/ap-course.php on line 5
+[11-Dec-2013 17:29:31 America/Chicago] [INFO] user crossoverdj logout at [1386804571] 
+[13-Dec-2013 08:50:21 America/Chicago] NO RESULT
+[13-Dec-2013 08:50:21 America/Chicago] ap_user_profile_update: INFO db query: INSERT INTO USER (username,email,password,joindate) VALUES ('helloworld','abc@123.com','cd1b8ecf103743a98958211a11e33b71',1386946221)
+[13-Dec-2013 08:51:36 America/Chicago] [INFO] user helloworld logout at [1386946296] 

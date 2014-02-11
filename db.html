@@ -1,0 +1,99 @@
+<html>
+<head>
+	<title>DB</title>
+</head>
+<body>
+<div>
+	<pre>
+
+user
++-----------+--------------+------+-----+---------+----------------+
+| Field     | Type         | Null | Key | Default | Extra          |
++-----------+--------------+------+-----+---------+----------------+
+| username  | varchar(64)  | NO   |     |         |                |
+| email     | varchar(64)  | NO   |     |         |                |
+| password  | varchar(32)  | NO   |     |         |                |
+
+| lastname  | varchar(32)  | YES  |     |         |                |
+| firstname | varchar(32)  | YES  |     |         |                |
+| birthday  | int(11)      | YES  |     |         |                |
+| gender    | char(1)      | YES  |     |         |                |
+|-intro     | text         | YES  |     | NULL    |                |
+
+| joindate  | int(11)      | NO   |     | 0       |                |
+| lastlogin | int(11)      | NO   |     | 0       |                |
+| status    | int(4)       | NO   |     | 0       |                |
+
+| id        | int(11)      | NO   | PRI | NULL    | auto_increment |
++-----------+--------------+------+-----+---------+----------------+
+CREATE TABLE USER (
+	username      VARCHAR(64) NOT NULL,
+	email         VARCHAR(64) NOT NULL,
+	password      VARCHAR(32) NOT NULL,
+
+	lastname      VARCHAR(32),
+	firstname     VARCHAR(32),
+	birthday      INT(11),
+	gender        CHAR(1) NOT NULL CHECK(gender IN ('M','F')),
+
+	joindate      INT(11) NOT NULL DEFAULT 0,
+	lastlogin     INT(11) NOT NULL DEFAULT 0,
+	status        INT(4)  NOT NULL DEFAULT 0,
+
+	id            INT(11) NOT NULL PRIMARY KEY AUTO_INCREMENT
+);
+
+assignment
++-----------+-------------+------+-----+---------+----------------+
+| Field     | Type        | Null | Key | Default | Extra          |
++-----------+-------------+------+-----+---------+----------------+
+| id        | int(11)     | NO   | PRI | NULL    | auto_increment |
+| begin     | int(11)     | NO   |     | 0       |                |
+| end       | int(11)     | NO   |     | 0       |                |
+| tag       | mediumtext  | NO   |     | NULL    |                |
+| title     | varchar(255)| NO   |     | NULL    |                |
+| content   | longtext    | NO   |     | NULL    |                |
+| status    | int(4)      | NO   |     | 0       |                |
++-----------+-------------+------+-----+---------+----------------+
+CREATE TABLE ASSIGNMENT (
+	id            INT(11) NOT NULL PRIMARY KEY AUTO_INCREMENT,
+
+	begin         INT(11) NOT NULL DEFAULT 0,
+	end           INT(11) NOT NULL DEFAULT 0,
+
+	tag           MEDIUMTEXT NOT NULL,
+	title         VARCHAR(255),
+	content       LONGTEXT NOT NULL,
+
+	status        INT(4)  NOT NULL DEFAULT 0
+);
+
+fork
++-----------+-------------+------+-----+---------+-------+
+| Field     | Type        | Null | Key | Default | Extra |
++-----------+-------------+------+-----+---------+-------+
+| masterid  | int(11)     | NO   |     | NULL    |       |
+| branchid  | int(11)     | NO   |     | NULL    |       |
+| userid    | int(11)     | NO   |     | NULL    |       |
++-----------+-------------+------+-----+---------+-------+
+CREATE TABLE FORK (
+	masterid      INT(11) NOT NULL,
+	branchid      INT(11) NOT NULL,
+	userid        INT(11) NOT NULL
+);
+
+user2assignment
++-----------+-------------+------+-----+---------+-------+
+| Field     | Type        | Null | Key | Default | Extra |
++-----------+-------------+------+-----+---------+-------+
+| uid       | int(11)     | NO   |     | NULL    |       |
+| aid       | int(11)     | NO   |     | NULL    |       |
++-----------+-------------+------+-----+---------+-------+
+CREATE TABLE U2A (
+	uid           INT(11) NOT NULL,
+	aid           INT(11) NOT NULL
+);
+</pre>
+</div>
+</body>
+</html>

@@ -1,0 +1,54 @@
+<html>
+<head>
+  <title>DB</title>
+</head>
+<body>
+<div>
+  <pre>
+CREATE TABLE `ASSIGNMENT` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `begin` int(13) NOT NULL DEFAULT '0',
+  `end` int(13) NOT NULL DEFAULT '0',
+  `tag` mediumtext NOT NULL,
+  `title` varchar(255) NOT NULL,
+  `content` longtext NOT NULL,
+  `status` int(4) NOT NULL DEFAULT '0',
+  `cid` int(11) NOT NULL,
+  `username` varchar(64) NOT NULL,
+  PRIMARY KEY (`id`)
+);
+
+CREATE TABLE `FORK` (
+  `masterid` int(11) NOT NULL,
+  `branchid` int(11) NOT NULL,
+  `username` varchar(64) NOT NULL
+);
+
+
+CREATE TABLE `GROUP` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `cid` int(11) NOT NULL,
+  `username` varchar(64) NOT NULL,
+  PRIMARY KEY (`id`)
+)
+
+CREATE TABLE `USER` (
+  `username` varchar(64) NOT NULL,
+  `email` varchar(64) NOT NULL,
+  `password` varchar(32) NOT NULL,
+  `lastname` varchar(32) DEFAULT NULL,
+  `firstname` varchar(32) DEFAULT NULL,
+  `birthday` int(11) DEFAULT NULL,
+  `gender` char(1) NOT NULL,
+  `sig` text,
+  `joindate` int(11) NOT NULL DEFAULT '0',
+  `lastlogin` int(11) NOT NULL DEFAULT '0',
+  `status` int(4) NOT NULL DEFAULT '0',
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  PRIMARY KEY (`id`)
+)
+
+</pre>
+</div>
+</body>
+</html>

@@ -1,0 +1,31 @@
+      *{margin:0;padding: 0;}
+
+      body{background: #444 url(../img/aceplus_reg_bg.png)}
+
+      .loginBox{
+      	width:250px;
+      	height:300px;
+      	padding:0 20px;
+      	border:1px solid #fff;
+
+      	color:#000;
+      	margin-top:40px;
+      	border-radius:8px;
+
+      	background: white;
+      	box-shadow:0 0 15px #222;
+      	background: -moz-linear-gradient(top, #fff, #efefef 8%);
+      	background: -webkit-gradient(linear, 0 0, 0 100%, from(#f6f6f6), to(#f4f4f4));
+
+      	font:11px/1.5em 'Microsoft YaHei';
+      	
+      	position: absolute;
+      	left:50%;
+      	top:50%;
+      	margin-left:-125px;
+      	margin-top:-240px;
+      }
+
+      .loginBox h2{height:45px;font-size:20px;font-weight:normal;}
+
+      .loginBox .up{border-bottom:1px solid #ccc;width:100%; }
