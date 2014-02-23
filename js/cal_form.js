@@ -75,6 +75,7 @@ function PrefixInteger(num, length) {
 }
 
 function getTodayStr () {
-    var today = new Date();
-    return [today.getFullYear(), today.getMonth()+1, PrefixInteger(today.getDate(),2)].join('-');
+    // var today = new Date();
+    // return [today.getFullYear(), today.getMonth()+1, PrefixInteger(today.getDate(),2)].join('-');
+    return "now";
 }
